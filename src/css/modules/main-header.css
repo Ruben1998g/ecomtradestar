@@ -1,0 +1,13 @@
+.main-header{
+    min-height:492px;
+    background-image:url('../../img/thone.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:flex;
+}
+
+@media(max-width:1200px){
+    .main-header{
+        min-height:400px;
+    }
+}

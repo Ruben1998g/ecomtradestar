@@ -1,2 +1,14 @@
-@import "header.css";
+@import "./modules/normilize.css";
+@import './modules/scaffolding.css';
+
+@import "./modules/main-header.css";
+@import "./modules/header.css";
+
+
+@import "./modules/main.css";
+@import "./modules/main-content.css";
+@import "./modules/content.css";
+
+
+@import './modules/calc.css';
 
